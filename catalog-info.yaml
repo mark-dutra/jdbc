@@ -10,14 +10,13 @@ metadata:
     - client
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
-    github.com/project-slug: mark-dutra/mark-demo
+    github.com/project-slug: mark-dutra/jdbc
   links:
   - url: https://www.google.com/
     title: Google apis
-  - url: http://tap-gui.tkgi-apps.wnp.polaris.cvshealthcloud.com/catalog/default/component/sample-asset
-    title: Previous version
+ 
 spec:
   type: library
   lifecycle: deprecated
-  owner: devsecops
+  owner: DBA Team
   system: java
