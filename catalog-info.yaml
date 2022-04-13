@@ -14,7 +14,10 @@ metadata:
   links:
   - url: https://www.google.com/
     title: Google apis
- 
+  - url: https://nexus.aetna.com/nexus/#browse/browse:ae-ansible-collibradq-agt
+    title: Nexus thing
+  - url: https://teams.sp16.aetna.com/sites/javafwtkc/JavaTKC/Assets/OpenSource/SitePages/JUnit.aspx
+    title: Java thing
 spec:
   type: library
   lifecycle: deprecated
