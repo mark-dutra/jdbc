@@ -2,13 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: JDBC-v4.2
-  title: JDBC v4.2
+  title: JUnit
   description: JDBC provides client access to databases from Java
   tags: 
     - java
     - db
     - client
-  iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   annotations:
     github.com/project-slug: mark-dutra/jdbc
   links:
@@ -17,9 +16,9 @@ metadata:
   - url: https://nexus.aetna.com/nexus/#browse/browse:ae-ansible-collibradq-agt
     title: Nexus thing
   - url: https://teams.sp16.aetna.com/sites/javafwtkc/JavaTKC/Assets/OpenSource/SitePages/JUnit.aspx
-    title: Java thing
+    title: JUnit in TKC
 spec:
   type: library
-  lifecycle: deprecated
-  owner: DBA Team
+  lifecycle: experimental
+  owner: devsecops
   system: java
